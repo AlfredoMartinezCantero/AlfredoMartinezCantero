@@ -21,9 +21,11 @@ Estoy determinado en aprender continuamente, trabajar con buenas prácticas y cr
 <a href="https://www.linkedin.com/in/alfredomart%C3%ADnez" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
+
 ---
-### ✉️ Contacto  
-- Correo: alfredomartinezcantero@gmail.com 
+#Contacto  
+- Correo: alfredomartinezcantero@gmail.com
+
 ---
 Gracias por pasarte por mi perfil. ¡Vamos a construir cosas geniales! 👾🚀👾
 
