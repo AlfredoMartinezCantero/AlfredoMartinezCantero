@@ -16,8 +16,6 @@
 
 ---
 # Redes sociales.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([
-)
-<a href="[[https://www.linkedin.com/in/TU-USUARIO/](https://www.linkedin.com/in/alfredomart%C3%ADnez/)](https://www.linkedin.com/in/alfredomart%C3%ADnez/)" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/> https://www.linkedin.com/in/alfredomart%C3%ADnez/
 </a>
