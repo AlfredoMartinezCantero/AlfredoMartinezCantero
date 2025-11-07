@@ -19,6 +19,7 @@ Estoy determinado en aprender continuamente, trabajar con buenas prácticas y cr
   <img src=https://img.shields.io/badge/-C++-000?style=flat&logo=c%2B%2B&logoColor=white>
   <img src=https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=white>
 </div>
+
 ---
 
 # Redes sociales.
