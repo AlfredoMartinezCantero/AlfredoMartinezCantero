@@ -4,7 +4,7 @@
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&theme=holi)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlfredoMartinezCantero&theme=holi&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.vercel.app/?user=AlfredoMartinezCantero&theme=holi&hide_border=true)](https://streak-stats.vercel.app)
 
 ---
 # Lenguajes usados hasta ahora.
