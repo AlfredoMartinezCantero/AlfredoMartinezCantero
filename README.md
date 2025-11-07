@@ -16,8 +16,9 @@ Estoy determinado en aprender continuamente, trabajar con buenas prácticas y cr
   <img src=https://img.shields.io/badge/-C++-000?style=flat&logo=c%2B%2B&logoColor=white>
   <img src=https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=white>
 </div>
+
 ---
-# Redes sociales.
+#Redes sociales.
 <a href="https://www.linkedin.com/in/alfredomart%C3%ADnez" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
