@@ -2,17 +2,16 @@
 # Hola! soy Alfredo Martínez Cantero ![verified](https://img.shields.io/static/v1?label=&message=Verified&color=2ea44f&style=flat&logo=github)
 <h2 aling="center">💻​Actualmente estoy estudiando DAM en CEACFP, Valencia💻​</h2>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&theme=holi)](https://github.com/AlfredoMartinezCantero)  
-
+<h2 aling="center"> 
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&theme=holi)](https://github.com/AlfredoMartinezCantero)  
+</h2>
 
 ---
 # Lenguajes usados hasta ahora.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMartinezCantero&layout=compact&theme=holi)](https://github.com/AlfredoMartinezCantero)
   
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql) ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown) 
-
-
-
 
 ---
 # Redes sociales.
