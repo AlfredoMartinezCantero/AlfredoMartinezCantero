@@ -1,9 +1,9 @@
 # Hola! Soy **Alfredo Martínez Cantero** ![verified](https://img.shields.io/static/v1?label=&message=Verified&color=2ea44f&style=flat&logo=github)
 <h2 aling="center">💻​Actualmente estoy estudiando DAM en CEACFP, Valencia💻​</h2>
 
-
 <h3 aling="center">Desarrollador en formación, me encanta la tecnología y el diseño de soluciones eficientes. 
 Estoy determinado en aprender continuamente, trabajar con buenas prácticas y crear proyectos con impacto.
+---
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&theme=holi)](https://github.com/AlfredoMartinezCantero) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMartinezCantero&layout=compact&theme=holi)](https://github.com/AlfredoMartinezCantero)
 
@@ -24,6 +24,7 @@ Estoy determinado en aprender continuamente, trabajar con buenas prácticas y cr
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 
+---
 # Contacto.
 alfredomartinezcantero@gmail.com
 
