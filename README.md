@@ -6,7 +6,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=holi&hide_border=true)](https://github.com/YOUR_USERNAME)
 
-<!--START_SECTION:waka-->
 name: Update WakaTime Stats
 
 on:
@@ -24,7 +23,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-<!--END_SECTION:waka-->
+
 
 
 ---
