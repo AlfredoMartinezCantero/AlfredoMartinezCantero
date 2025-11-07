@@ -2,12 +2,30 @@
 <img src="banner.png" alt="Banner de Alfredo" width="100%">
 </p>
 
-# Hola! Soy **Alfredo Martínez Cantero** ![verified](https://img.shields.io/static/v1?label=&message=Verified&color=2ea44f&style=flat&logo=github)
-<h2 aling="center">💻​Actualmente estoy estudiando DAM en CEACFP, Valencia💻​</h2>
+<div align="center">
+  <h1>
+    Hola! Soy <strong>Alfredo Martínez Cantero</strong>
+    <img src="https://img.shields.io/static/v1?label=&message=Verified&color=2ea44f&style=flat&logo=github" alt="verified"/>
+  </h1>
+</div>
+
+<div align="center">
+  <h2>💻​Actualmente estoy estudiando DAM en CEACFP, Valencia💻​</h2>
+</div>
 
 ---
-<h3 aling="center">Desarrollador en formación, me encanta la tecnología y el diseño de soluciones eficientes. 
-Estoy determinado en aprender continuamente, trabajar con buenas prácticas y crear proyectos con impacto.
+<div align="center">
+  <h1>
+    Hola! Soy <strong>Alfredo Martínez Cantero</strong>
+    <img src="https://img.shields.io/static/v1?label=&message=Verified&color=2ea44f&style=flat&logo=github" alt="verified"/>
+  </h1>
+</div>
+
+<p align="justify">
+  Desarrollador en formación. Me encanta la tecnología y el diseño de soluciones eficientes. 
+  Estoy determinado en aprender continuamente, trabajar con buenas prácticas y crear proyectos con impacto.
+</p>
+
   
 ---
   
