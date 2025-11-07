@@ -7,7 +7,6 @@
 [![GitHub Streak](https://streak-stats.vercel.app/?user=AlfredoMartinezCantero&theme=holi&hide_border=true)](https://streak-stats.vercel.app)
 
 
-
 ---
 # Lenguajes usados hasta ahora.
 <img width="423" height="135" alt="Captura de pantalla 2025-11-07 095904" src="https://github.com/user-attachments/assets/bcc286d9-5589-44fd-b8c4-39b6395a2c53" />
@@ -18,6 +17,9 @@
   ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)  
   ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown) 
 </p>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&theme=holi)](https://github.com/AlfredoMartinezCantero)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMartinezCantero&layout=compact&theme=holi)](https://github.com/AlfredoMartinezCantero)
 
 ---
 # Redes sociales.
@@ -37,8 +39,7 @@ Enfoque en aprender continuamente, trabajar con buenas prácticas y crear proyec
 ---
 
 ### 📊 Mis estadísticas  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&theme=holi)](https://github.com/TU_USUARIO)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=holi)](https://github.com/TU_USUARIO)
+
 
 ---
 
