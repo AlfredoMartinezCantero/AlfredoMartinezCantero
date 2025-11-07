@@ -1,3 +1,8 @@
+<p align="center">
+<img src=<"img width="2080" height="600" alt="banner" src="https://github.com/user-attachments/assets/802e5fff-fb7c-436a-9da7-4ee0169f7e13"/>
+
+</p>
+
 # Hola! Soy **Alfredo Martínez Cantero** ![verified](https://img.shields.io/static/v1?label=&message=Verified&color=2ea44f&style=flat&logo=github)
 <h2 aling="center">💻​Actualmente estoy estudiando DAM en CEACFP, Valencia💻​</h2>
 
