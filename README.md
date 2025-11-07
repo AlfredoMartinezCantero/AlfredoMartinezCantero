@@ -12,8 +12,10 @@
 # Lenguajes usados hasta ahora.
 <img width="423" height="135" alt="Captura de pantalla 2025-11-07 095904" src="https://github.com/user-attachments/assets/bcc286d9-5589-44fd-b8c4-39b6395a2c53" />
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)  
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)  
+  ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)  
+  ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown) 
 </p>
 
 ---
@@ -22,21 +24,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 
+
+
 # Hola, soy **TU NOMBRE** 👋
 
 ### 💼 Sobre mí
 Desarrollador en formación / Apasionado por la tecnología, la automatización y el diseño de soluciones eficientes.  
 Enfoque en aprender continuamente, trabajar con buenas prácticas y crear proyectos con impacto.
-
----
-
-### ⚙️ Tecnologías que uso  
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
-![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)  
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)  
-*(Añade o cambia según tus lenguajes y herramientas)*
+ 
 
 ---
 
