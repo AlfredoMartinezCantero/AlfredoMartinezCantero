@@ -4,27 +4,7 @@
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&theme=holi)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=holi&hide_border=true)](https://github.com/YOUR_USERNAME)
-
-name: Update WakaTime Stats
-
-on:
-  schedule:
-    - cron: '0 0 * * *'  # se ejecuta una vez al día
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlfredoMartinezCantero&theme=holi&hide_border=true)](https://github.com/YOUR_USERNAME)
 
 ---
 # Lenguajes usados hasta ahora.
