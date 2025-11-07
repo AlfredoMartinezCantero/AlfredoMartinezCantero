@@ -11,11 +11,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
 </p>
 
-
-
-
 ---
 # Redes sociales.
-<img src="<a href="https://www.linkedin.com/in/alfredomart%C3%ADnez" target="_blank">
+<a href="https://www.linkedin.com/in/alfredomart%C3%ADnez" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-
+</a>
