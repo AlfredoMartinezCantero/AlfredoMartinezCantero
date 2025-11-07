@@ -27,7 +27,7 @@ Estoy determinado en aprender continuamente, trabajar con buenas prácticas y cr
 
 ---
 #Contacto  
-- Correo: alfredomartinezcantero@gmail.com
+alfredomartinezcantero@gmail.com
 
 ---
 Gracias por pasarte por mi perfil. ¡Vamos a construir cosas geniales! 👾🚀👾
