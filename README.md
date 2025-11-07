@@ -1,11 +1,12 @@
 ---
-# Hola! soy Alfredo Martínez Cantero ![verified](https://img.shields.io/static/v1?label=&message=Verified&color=2ea44f&style=flat&logo=github)
+# Hola! Soy **Alfredo Martínez Cantero** ![verified](https://img.shields.io/static/v1?label=&message=Verified&color=2ea44f&style=flat&logo=github)
 <h2 aling="center">💻​Actualmente estoy estudiando DAM en CEACFP, Valencia💻​</h2>
 <h3 aling="center">Desarrollador en formación, me encanta la tecnología y el diseño de soluciones eficientes. 
 Estoy determinado en aprender continuamente, trabajar con buenas prácticas y crear proyectos con impacto.
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&theme=holi)](https://github.com/AlfredoMartinezCantero) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMartinezCantero&layout=compact&theme=holi)](https://github.com/AlfredoMartinezCantero)
 
+---
 <div align=center>
   <img src=https://img.shields.io/badge/-Python-000?style=flat&logo=python>
   <img src=https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5>
@@ -15,39 +16,15 @@ Estoy determinado en aprender continuamente, trabajar con buenas prácticas y cr
   <img src=https://img.shields.io/badge/-C++-000?style=flat&logo=c%2B%2B&logoColor=white>
   <img src=https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=white>
 </div>
-
-
-
----  
-
-
 ---
 # Redes sociales.
 <a href="https://www.linkedin.com/in/alfredomart%C3%ADnez" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
-
-
-
-# Hola, soy **TU NOMBRE** 👋
-
-### 💼 Sobre mí
-Desarrollador en formación / Apasionado por la tecnología, la automatización y el diseño de soluciones eficientes.  
-Enfoque en aprender continuamente, trabajar con buenas prácticas y crear proyectos con impacto.
- 
-
 ---
-
-### 📊 Mis estadísticas  
-
-
----
-
 ### ✉️ Contacto  
-- Correo: tuemail@ejemplo.com  
-- LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/tu‐perfil)  
+- Correo: alfredomartinezcantero@gmail.com 
+---
+Gracias por pasarte por mi perfil. ¡Vamos a construir cosas geniales! 👾🚀👾
 
 ---
-
-Gracias por pasarte por mi perfil. ¡Vamos a construir cosas geniales! 🚀
-
