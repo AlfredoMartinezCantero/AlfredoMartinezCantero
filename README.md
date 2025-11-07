@@ -1,5 +1,5 @@
 <p align="center">
-<img src="banner.png" alt="Banner de Alfredo" width="100%">
+<img src="banner negro.png" alt="Banner de Alfredo" width="100%">
 </p>
 
 # Hola! Soy **Alfredo Martínez Cantero** ![verified](https://img.shields.io/static/v1?label=&message=Verified&color=2ea44f&style=flat&logo=github)
