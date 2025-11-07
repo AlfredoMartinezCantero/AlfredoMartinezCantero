@@ -2,9 +2,8 @@
 # Hola! soy Alfredo Martínez Cantero ![verified](https://img.shields.io/static/v1?label=&message=Verified&color=2ea44f&style=flat&logo=github)
 <h2 aling="center">💻​Actualmente estoy estudiando DAM en CEACFP, Valencia💻​</h2>
 
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&theme=holi) 
-[![GitHub Streak](https://streak-stats.vercel.app/?user=AlfredoMartinezCantero&theme=holi&hide_border=true)](https://streak-stats.vercel.app)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&theme=holi)](https://github.com/AlfredoMartinezCantero)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMartinezCantero&layout=compact&theme=holi)](https://github.com/AlfredoMartinezCantero)
 
 
 ---
@@ -18,8 +17,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown) 
 </p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&theme=holi)](https://github.com/AlfredoMartinezCantero)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMartinezCantero&layout=compact&theme=holi)](https://github.com/AlfredoMartinezCantero)
+
 
 ---
 # Redes sociales.
