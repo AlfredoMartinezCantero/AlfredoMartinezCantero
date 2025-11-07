@@ -14,26 +14,19 @@
 </div>
 
 ---
-<div align="center">
-  <h1>
-    Hola! Soy <strong>Alfredo Martínez Cantero</strong>
-    <img src="https://img.shields.io/static/v1?label=&message=Verified&color=2ea44f&style=flat&logo=github" alt="verified"/>
-  </h1>
-</div>
 
 <p align="justify">
-  Desarrollador en formación. Me encanta la tecnología y el diseño de soluciones eficientes. 
+  <strong>Desarrollador en formación.</strong> 
+  Me encanta la tecnología y el diseño de soluciones eficientes. 
   Estoy determinado en aprender continuamente, trabajar con buenas prácticas y crear proyectos con impacto.
 </p>
 
-  
 ---
   
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&bg_color=0d1117&title_color=9400D3&icon_color=9400D3&text_color=ffffff&border_color=FF00FF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMartinezCantero&layout=compact&bg_color=0d1117&title_color=9400D3&text_color=ffffff&border_color=FF00FF"/>
 </div>
-
 
 ---
 <div align=center>
