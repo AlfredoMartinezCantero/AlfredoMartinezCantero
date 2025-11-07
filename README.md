@@ -5,7 +5,8 @@
   
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&theme=holi)](https://github.com/AlfredoMartinezCantero) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMartinezCantero&layout=compact&theme=holi)](https://github.com/AlfredoMartinezCantero)
 
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql) ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)![C](https://img.shields.io/badge/-C-000?style=flat&logo=c&logoColor=white)![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=c%2B%2B&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5) ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql) ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)![C](https://img.shields.io/badge/-C-000?style=flat&logo=c&logoColor=white)![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=c%2B%2B&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3&logoColor=white)
 
 
 
