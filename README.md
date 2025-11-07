@@ -1,6 +1,6 @@
 ---
-# <h1 align="center">Hola! soy Alfredo Martínez, estudiante de **DAM** en CEACFP!</h1>
-![verified](https://img.shields.io/static/v1?label=&message=Verificado&color=2ea44f&style=flat&logo=github)
+# <h1 align="center">Hola! soy Alfredo Martínez![verified](https://img.shields.io/static/v1?label=&message=Verificado&color=2ea44f&style=flat&logo=github)
+, estudiante de **DAM** en CEACFP!</h1>
 
 ---
 # Lenguajes usados hasta ahora.
