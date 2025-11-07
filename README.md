@@ -12,6 +12,7 @@
 # Lenguajes usados hasta ahora.
 <img width="423" height="135" alt="Captura de pantalla 2025-11-07 095904" src="https://github.com/user-attachments/assets/bcc286d9-5589-44fd-b8c4-39b6395a2c53" />
 <p align="center">
+
   ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)  
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)  
   ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)  
