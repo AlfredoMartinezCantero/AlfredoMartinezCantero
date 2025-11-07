@@ -2,6 +2,30 @@
 # Hola! soy Alfredo Martínez Cantero ![verified](https://img.shields.io/static/v1?label=&message=Verified&color=2ea44f&style=flat&logo=github)
 <h2>💻​Actualmente estoy estudiando DAM en CEACFP, Valencia💻​</h2>
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&theme=holi)  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=holi&hide_border=true)](https://github.com/YOUR_USERNAME)
+
+<!--START_SECTION:waka-->
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # se ejecuta una vez al día
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+<!--END_SECTION:waka-->
+
 
 ---
 # Lenguajes usados hasta ahora.
@@ -17,4 +41,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&theme=holi)  
