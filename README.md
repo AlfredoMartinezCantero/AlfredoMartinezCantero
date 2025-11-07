@@ -9,11 +9,10 @@
 # Lenguajes usados hasta ahora.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMartinezCantero&layout=compact&theme=holi)](https://github.com/AlfredoMartinezCantero)
   
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
-![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)  
-![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown) 
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5) ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql) ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown) 
+
+
+
 
 ---
 # Redes sociales.
