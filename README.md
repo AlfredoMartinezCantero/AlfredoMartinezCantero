@@ -22,3 +22,35 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 
+# Hola, soy **TU NOMBRE** 👋
+
+### 💼 Sobre mí
+Desarrollador en formación / Apasionado por la tecnología, la automatización y el diseño de soluciones eficientes.  
+Enfoque en aprender continuamente, trabajar con buenas prácticas y crear proyectos con impacto.
+
+---
+
+### ⚙️ Tecnologías que uso  
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
+![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)  
+![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)  
+*(Añade o cambia según tus lenguajes y herramientas)*
+
+---
+
+### 📊 Mis estadísticas  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&theme=holi)](https://github.com/TU_USUARIO)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=holi)](https://github.com/TU_USUARIO)
+
+---
+
+### ✉️ Contacto  
+- Correo: tuemail@ejemplo.com  
+- LinkedIn: [Tu LinkedIn](https://www.linkedin.com/in/tu‐perfil)  
+
+---
+
+Gracias por pasarte por mi perfil. ¡Vamos a construir cosas geniales! 🚀
+
