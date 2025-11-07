@@ -1,5 +1,5 @@
 ---
-# Hola! soy Alfredo Martínez ![verified](https://img.shields.io/static/v1?label=&message=Verificado&color=2ea44f&style=flat&logo=github)
+# Hola! soy Alfredo Martínez Cantero ![verified](https://img.shields.io/static/v1?label=&message=Verificado&color=2ea44f&style=flat&logo=github)
 <h2>💻​Actualmente estoy estudiando DAM en CEACFP, Valencia💻​</h2>
 
 
@@ -16,4 +16,5 @@
 
 ---
 # Redes sociales.
-https://www.linkedin.com/in/alfredomart%C3%ADnez/
+# [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/TU-USUARIO/](https://www.linkedin.com/in/alfredomart%C3%ADnez/
+))
