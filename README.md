@@ -3,21 +3,17 @@
 <h2 aling="center">💻​Actualmente estoy estudiando DAM en CEACFP, Valencia💻​</h2>
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&theme=holi)](https://github.com/AlfredoMartinezCantero)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMartinezCantero&layout=compact&theme=holi)](https://github.com/AlfredoMartinezCantero)
 
 
 ---
 # Lenguajes usados hasta ahora.
-<img width="423" height="135" alt="Captura de pantalla 2025-11-07 095904" src="https://github.com/user-attachments/assets/bcc286d9-5589-44fd-b8c4-39b6395a2c53" />
-
-<p align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMartinezCantero&layout=compact&theme=holi)](https://github.com/AlfredoMartinezCantero)
   
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)  
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
 ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)  
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown) 
-</p>
 
 ---
 # Redes sociales.
