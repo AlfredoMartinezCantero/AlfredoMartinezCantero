@@ -7,7 +7,8 @@ Estoy determinado en aprender continuamente, trabajar con buenas prácticas y cr
   
 ---
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&bg_color=0d1117&title_color=9400D3&icon_color=9400D3&text_color=ffffff&border_color=9932CC)](https://github.com/AlfredoMartinezCantero)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMartinezCantero&layout=compact&bg_color=0d1117&title_color=9400D3&icon_color=9400D3&text_color=ffffff&bor)]()
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&bg_color=0d1117&title_color=9400D3&icon_color=9400D3&text_color=ffffff&border_color=FF00FF)](https://github.com/AlfredoMartinezCantero)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMartinezCantero&layout=compact&bg_color=0d1117&title_color=9400D3&icon_color=9400D3&text_color=ffffff&border_color=FF00FF)](https://github.com/AlfredoMartinezCantero)
+
 
 
 
