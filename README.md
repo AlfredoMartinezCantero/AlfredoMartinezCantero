@@ -1,9 +1,9 @@
 ---
-# Hola! soy Alfredo Martínez Cantero ![verified](https://img.shields.io/static/v1?label=&message=Verified&color=2ea44f&style=flat&logo=github)
-<h2>💻​Actualmente estoy estudiando DAM en CEACFP, Valencia💻​</h2>
+<h1 aling="center">Hola! soy Alfredo Martínez Cantero ![verified](https://img.shields.io/static/v1?label=&message=Verified&color=2ea44f&style=flat&logo=github)</h1>
+<h2 aling="center">💻​Actualmente estoy estudiando DAM en CEACFP, Valencia💻​</h2>
 
 
-<p aling="center>![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&theme=holi) [![GitHub Streak](https://streak-stats.vercel.app/?user=AlfredoMartinezCantero&theme=holi&hide_border=true)](https://streak-stats.vercel.app)</p>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&count_private=true&theme=holi) [![GitHub Streak](https://streak-stats.vercel.app/?user=AlfredoMartinezCantero&theme=holi&hide_border=true)](https://streak-stats.vercel.app)</p>
 
 
 
