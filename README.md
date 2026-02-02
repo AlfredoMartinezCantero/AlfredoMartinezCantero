@@ -29,11 +29,12 @@ Busco el equilibrio perfecto entre la solidez de una buena base de datos y la cr
 ---
 
 ### 🛠️ Tech Stack & Herramientas
+<div align="center">
 
 | **Frontend / Diseño** | **Backend / Lógica** | **Bases de Datos** | **DevOps & Tools** |
 |:---:|:---:|:---:|:---:|
 | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <br> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <br> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> | <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/> <br> <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/> | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <br> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> |
-
+</div>
 ---
 
 ### 📊 Estadísticas
