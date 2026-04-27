@@ -6,7 +6,8 @@
 <br/>
 
 <a href="https://github.com/AlfredoMartinezCantero">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=9400D3&center=true&vCenter=true&multiline=false&width=700&lines=Hola%2C+soy+Alfredo+%F0%9F%91%8B;DAM+Student+%7C+Full+Stack+Dev;PHP+%2B+Python+%2B+SQL+%2B+JS;Construyendo+el+futuro%2C+línea+a+línea" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=9400D3&center=true&vCenter=true&multiline=false&width=700&lines=Hola%2C+soy+Alfredo+%F0%9F%91%8B;DAM+Student+%7C+Full+Stack+Dev;PHP+%2B+Python+%2B+SQL+%2B+JS;No+dudes+en+contactarme"
+  alt="Typing SVG"/>
 </a>
 
 <br/><br/>
