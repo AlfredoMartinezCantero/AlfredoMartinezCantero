@@ -44,7 +44,7 @@ developer = {
     "estudios":   "DAM – Desarrollo de Aplicaciones Multiplataforma",
     "intereses":  ["Backend robusto", "Frontend intuitivo", "UX/UI", "Bases de datos", "IA"],
     "filosofia":  "El código limpio es tan importante como el código que funciona",
-    "buscando":   "Mis primeras prácticas profesionales 🚀"
+    "buscando":   "Una oportunidad para incorporarme a un equipo de desarrollo"
 }
 ```
 
