@@ -168,6 +168,4 @@ Entorno de desarrollo en el navegador que permite **escribir y ejecutar Python**
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer" width="100%"/>
-
 </div>
