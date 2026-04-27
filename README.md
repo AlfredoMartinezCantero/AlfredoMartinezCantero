@@ -1,7 +1,13 @@
 <div align="center">
+  
+<!-- OLA SUPERIOR -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=100&section=footer&reversal=true" width="100%"/>
 
-<!-- BANNER ANIMADO CON TYPING -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=200&section=header&text=Alfredo%20Martínez&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20Training&descAlignY=60&descAlign=50" width="100%"/>
+<!-- BANNER ORIGINAL -->
+<img src="banner.png" alt="Banner de Alfredo" width="100%"/>
+
+<!-- OLA INFERIOR -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=100&section=header&reversal=true" width="100%"/>
 
 <br/>
 
