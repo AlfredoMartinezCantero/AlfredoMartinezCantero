@@ -144,17 +144,6 @@ Entorno de desarrollo en el navegador que permite **escribir y ejecutar Python**
 
 ---
 
-## Actualmente...
-
-```
-Trabajando en  →  Proyectos Full Stack con PHP y Python
-Aprendiendo    →  JavaScript avanzado, APIs REST y Flask, Open Claw
-Buscando       →  Colaborar en proyectos open source
-Contacto       →  alfredomartinezcantero@gmail.com
-```
-
----
-
 <div align="center">
 
 ### 🤝 ¿Conectamos?
