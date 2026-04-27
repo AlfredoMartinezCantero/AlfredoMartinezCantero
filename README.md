@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://github.com/AlfredoMartinezCantero">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=9400D3&center=true&vCenter=true&multiline=false&width=700&lines=Hola%2C+soy+Alfredo+%F0%9F%91%8B;DAM+Student+%7C+Full+Stack+Dev;PHP+%2B+Python+%2B+SQL+%2B+JS;No+dudes+en+contactarme"
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=9400D3&center=true&vCenter=true&multiline=false&width=700&lines=Hola%2C+soy+Alfredo+%F0%9F%91%8B;DAM+Student+%7C+Full+Stack+Dev;PHP+%2B+Python+%2B+SQL+%2B+JS;No+dudes+en+contactar+conmigo"
   alt="Typing SVG"/>
 </a>
 
@@ -77,10 +77,7 @@ Soy un desarrollador **junior** apasionado por construir productos completos: de
 ## Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlfredoMartinezCantero&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=9400D3&icon_color=9400D3"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMartinezCantero&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9400D3"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredoMartinezCantero&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=9400D3&text_color=ffffff"/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlfredoMartinezCantero&theme=radical&hide_border=true&background=0d1117&ring=9400D3&fire=FF6B6B&currStreakLabel=9400D3" alt="Racha de commits"/>
